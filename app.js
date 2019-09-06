@@ -12,6 +12,8 @@ const microcache = require('route-cache')
 const useMicroCache = isProd
 
 
+app.use(favicon(path.join(__dirname, 'favicon.ico')))
+
 //是否开启gzip压缩
 if (cmsConfig.gzip) {
   app.use(compression({ threshold: 0 }))
