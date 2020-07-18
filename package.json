@@ -27,7 +27,7 @@
     "express-session": "^1.16.2",
     "extract-text-webpack-plugin": "^3.0.2",
     "fdfs": "^1.0.4",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.19",
     "log4js": "^3.0.6",
     "lru-cache": "^4.1.1",
     "memory-fs": "^0.4.1",
