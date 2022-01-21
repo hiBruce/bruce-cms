@@ -28,7 +28,7 @@
     "extract-text-webpack-plugin": "^3.0.2",
     "fdfs": "^1.0.4",
     "lodash": "^4.17.11",
-    "log4js": "^3.0.6",
+    "log4js": "^6.4.0",
     "lru-cache": "^4.1.1",
     "memory-fs": "^0.4.1",
     "mysql": "^2.17.1",
